@@ -1,20 +1,21 @@
 ## Simple Calculator Desktop App Using Java Swing
 ---
 ### 📝 Description: 
-The Calculator application is a simple Android application developed by the Java Swing libraries
+The Calculator application is a simple Android application developed by the Java and Eclipse Ide. It aims to perform simple mathematical operations easily and was developed for educational purposes. and this project was built using [Java Swing libraries](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html). Which contains a number of classes 
+ 
+### What problem does it solve, What did you learn؟
 
-This project was built using [Java Swing](https://docs.oracle.com/javase/7/docs/api/javax/swing/package-summary.html)
-### How to use the project : 
-### Motivation, Why did you build this project 
-### What problem does it solve, What did you learn 
 ### 🛠️ Languages and Tools:
+[![made-with-java](https://img.shields.io/badge/Made%20with-Java%20Swing-1f425f.svg)](https://www.java.com)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  
-  [![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)](https://www.java.com)
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" **alt="Eclipse" width="40" height="40"/>
 </div>
+
 ## How to install and run:
+
 ### Visuals:
+
 ### Include Credits:
 
 ### License:
