@@ -46,9 +46,9 @@ If you have questions, or you have a project I'm available for freelancing and a
   <a href="https://twitter.com/@abikoazh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.behance.net/AbikoAzh">
-    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=github&logoColor=white" alt="Behance Badge"/>
-  </a> 
+ <a href="https://www.behance.net/AbikoAzh">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+  </a>
 </div>
 
 ---
