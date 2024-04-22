@@ -1,5 +1,3 @@
-### Java-Swing-Calculator-App
-
 ## Simple Calculator Desktop App Using Java Swing
 ---
 ### 📝 Description: what app does, why used this technology
